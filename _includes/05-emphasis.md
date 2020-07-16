@@ -1,9 +1,9 @@
-*This text will be italic*
+*This is italic*
 
-_This will also be italic_
+_This is italic_
 
-**This text will be bold**
+**Bold**
 
-__This will also be bold__
+__Bold__
 
-_You **can** combine them_
+__HI this is **me** __
